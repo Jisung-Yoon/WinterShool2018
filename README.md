@@ -3,3 +3,5 @@ It is project of stastical physics winter school 2018. Implement generative mode
 1. Restricted Boltzmann Machine
 2. Deep Belief Network
 3. generative adversarial networks
+
+This is tempoarary code and, Code will be updated very soon.
